@@ -18,3 +18,11 @@
 <img width="2560" height="1440" alt="X2" src="https://github.com/user-attachments/assets/4982952e-b9eb-4f2c-8504-664ba3d2e591" />
 <img width="2560" height="1440" alt="20261004225119_1" src="https://github.com/user-attachments/assets/4636efae-b969-4810-b7e4-4fb1ea99118b" />
 
+重制版汉化效果预览：
+
+<img width="2560" height="1440" alt="XX4" src="https://github.com/user-attachments/assets/3eb67560-4321-4fce-bf33-bea32207b056" />
+<img width="2560" height="1440" alt="XX3" src="https://github.com/user-attachments/assets/3c9a79be-e9ca-4820-b84f-78960fa94c95" />
+<img width="2560" height="1440" alt="XX2" src="https://github.com/user-attachments/assets/5bf1315f-8ff6-44a4-94d2-f0eb18a5630a" />
+<img width="2560" height="1440" alt="XX1" src="https://github.com/user-attachments/assets/929e3954-1b76-45b7-aeba-e31cf9b0a957" />
+
+
