@@ -1,5 +1,5 @@
 # XIII-CN-Patch
-杀手13原版（XIII - Classic）简体中文汉化补丁1.0
+杀手13原版（XIII - Classic）&杀手13重制版（XIII - 2020）简体中文汉化补丁
 
 已整合XIII-MongooseFix第三方修复补丁
 
@@ -7,7 +7,7 @@
 
 大陆网盘分流链接：https://pan.quark.cn/s/2c452241cb8a
 
-受限于Github容量限制，杀手13重制版（XIII 2020）汉化包
+受限于Github容量限制，杀手13重制版（XIII - 2020）汉化包
 请至网盘下载：https://pan.quark.cn/s/433250f8978f
 
 也可使用此分流链接直接下载：https://oss.sulink.ltd/XIII_CN_Patch_v1.1.zip
