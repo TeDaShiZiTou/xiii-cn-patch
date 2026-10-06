@@ -1,5 +1,4 @@
-# XIII-CN-Patch
-杀手13原版（XIII - Classic）简体中文汉化补丁如下：
+# 杀手13原版（XIII - Classic）简体中文汉化补丁
 
 仓库内的压缩包已整合XIII-MongooseFix第三方修复补丁，仅限原版游戏使用。
 
@@ -14,7 +13,7 @@
 <img width="2560" height="1440" alt="X3" src="https://github.com/user-attachments/assets/9283fafd-480e-467f-8e35-ff11dada64aa" />
 
 
-杀手13重制版（XIII - 2020）重制版汉化补丁如下：
+# 杀手13重制版（XIII - 2020）重制版汉化补丁
 
 受限于Github容量限制，杀手13重制版（XIII - 2020）汉化补丁
 请至网盘下载：https://pan.quark.cn/s/433250f8978f
