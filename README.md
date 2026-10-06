@@ -1,4 +1,4 @@
-# xiii-cn-patch
+# XIII-CN-Patch
 杀手13原版（XIII - Classic）简体中文汉化补丁1.0
 
 已整合XIII-MongooseFix 
