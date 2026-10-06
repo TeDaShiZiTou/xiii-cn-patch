@@ -4,7 +4,7 @@
 
 修复补丁原作者仓库地址：https://github.com/TGP482/XIII-MongooseFix
 
-大陆网盘分流链接：https://pan.quark.cn/s/2c452241cb8a
+大陆网盘分流链接：https://pan.quark.cn/s/a898d61934de
 
 
 原版汉化效果预览：
